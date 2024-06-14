@@ -1,2 +1,1 @@
-# SolarBoat_webApplication
-Frontend web application
+# Research_webApplication
